@@ -1,0 +1,10 @@
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.csproj.AssemblyReference.cache
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.Form1.resources
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.Properties.Resources.resources
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.csproj.GenerateResource.cache
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TestingCRUD\TestingCRUD\bin\Debug\TestingCRUD.exe.config
+D:\Coding\C#\TestingCRUD\TestingCRUD\bin\Debug\TestingCRUD.exe
+D:\Coding\C#\TestingCRUD\TestingCRUD\bin\Debug\TestingCRUD.pdb
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.exe
+D:\Coding\C#\TestingCRUD\TestingCRUD\obj\Debug\TestingCRUD.pdb
